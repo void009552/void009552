@@ -2,7 +2,7 @@
 
 I know most languages I will build a lot of projects I currently don't have very many ideas so if you would like to see something message me 
 
-If you want a custom project, message me on Discord (void009552). Anything I build will be posted on my GitHub.
+If you want a custom project, message me on Discord void009552. Anything I build will be posted on my GitHub.
 
 ## Languages
 
